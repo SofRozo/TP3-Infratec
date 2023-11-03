@@ -35,26 +35,10 @@ Using the OWASP Top 10, what would you look for to make your system secure?
 
 
 ![image](https://github.com/SofRozo/TP3-Infratec/assets/111070857/f9f91dd2-d2e4-4c15-a859-bc271234e9b5)
+| Encabezado 1 | Encabezado 2 | Encabezado 3 |
+|--------------|--------------|--------------|
+| Dato 1.1    | Dato 2.1    | Dato 3.1    |
+| Dato 1.2    | Dato 2.2    | Dato 3.2    |
 
 
-Se debe considerar los siguientes puntos basados en el OWASP Top 10 de 2021:
 
-Inyección: Asegúrate de que todas las consultas a la base de datos MySQL estén parametrizadas para evitar la inyección SQL. También, valida y desinfecta todas las entradas del usuario en las aplicaciones móviles y en el frontend web.
-
-Autenticación y gestión de sesiones rotas: Implementa una autenticación sólida y manejo de sesiones para las aplicaciones móviles, el frontend web y el backend de Python. Considera el uso de autenticación multifactorial.
-
-Exposición de datos sensibles: Todos los datos sensibles, como contraseñas y números de teléfono, deben estar cifrados tanto en tránsito como en reposo.
-
-Control de acceso roto: Implementa un control de acceso basado en roles (RBAC) para asegurarte de que los empleados solo puedan acceder a los datos y funciones que necesitan para su trabajo.
-
-Configuración de seguridad incorrecta: Asegúrate de que todos tus contenedores Kubernetes y servicios AWS estén configurados correctamente y sigan las mejores prácticas de seguridad.
-
-Cross-Site Scripting (XSS): Dado que estás utilizando JavaScript con Next.js para tu frontend web, debes asegurarte de que todas las entradas del usuario se validen y desinfecten correctamente para prevenir ataques XSS.
-
-Inseguridad en la deserialización: Si estás deserializando datos en tu backend Python, asegúrate de que solo se acepten datos serializados seguros.
-
-Componentes con vulnerabilidades conocidas: Mantén todas tus dependencias, incluyendo las bibliotecas JavaScript y Python, actualizadas a las últimas versiones seguras.
-
-Registro e monitoreo insuficientes: Implementa un sistema sólido de registro y monitoreo para detectar cualquier actividad sospechosa o maliciosa lo antes posible.
-
-Recuerda, la seguridad es un proceso continuo y debe ser una consideración clave en todas las etapas del desarrollo y mantenimiento del software.
