@@ -14,7 +14,7 @@
 
 Plan for make our system secure
 
-![logo](https://github.com/SofRozo/TP3-Infratec/assets/111070857/1901a3cf-c32c-4f48-b790-7a51e639b6ca)     hahaha
+![logo](https://github.com/SofRozo/TP3-Infratec/assets/111070857/760a840b-314d-401b-a38c-7a499f65724f)
 
 
 OWASP Top 10
