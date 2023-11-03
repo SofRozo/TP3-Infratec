@@ -23,8 +23,9 @@ OWASP Top 10
 
 | ID | Category | Importance |
 |--------------|--------------|--------------|
-| Dato 1.1    | Dato 2.1    | Dato 3.1    |
+| 1   | Injection Attacks    |  that all user inputs are properly validated and sanitized to prevent injection attacks. This is critical for your Python backend when interacting with the MySQL database. Use prepared statements or ORM libraries to mitigate SQL injection risks.   |
 | Dato 1.2    | Dato 2.2    | Dato 3.2    |
+
 
 
 
