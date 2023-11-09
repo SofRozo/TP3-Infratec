@@ -29,4 +29,17 @@
 | F38          | Monitorear y gestionar impacto ambiental               | RF115    | Establecer un sistema de seguimiento y reporte de impacto ambiental de las operaciones. |
 | F39          | Planificar y ejecutar capacitaciones de seguridad      | RF116    | Desarrollar un sistema de planificación y ejecución de capacitaciones de seguridad para empleados. |
 |              |                                                        | RF117    | Implementar un sistema de seguimiento de certificaciones de seguridad y cumplimiento normativo. |
+| F40          | Administrar programas de bienestar para empleados     | RF118    | Desarrollar un sistema de gestión de programas de bienestar para empleados. |
+|              |                                                       | RF119    | Implementar un sistema de registro de participación y retroalimentación de empleados en los programas. |
+| F41          | Coordinar y planificar eventos corporativos            | RF120    | Crear una plataforma de coordinación de eventos corporativos con registro de asistentes y recursos. |
+|              |                                                        | RF121    | Establecer un sistema de comunicación interna y externa para la promoción de eventos. |
+| F42          | Supervisar y realizar auditoría de proveedores          | RF122    | Desarrollar un sistema de seguimiento y evaluación de proveedores, incluyendo auditorías de calidad. |
+|              |                                                         | RF123    | Implementar un portal para la presentación de informes y documentación por parte de proveedores. |
+| F43          | Mantenimiento y actualización de sitio web              | RF124    | Establecer un sistema de gestión de contenidos y actualizaciones programadas para el sitio web. |
+|              |                                                         | RF125    | Implementar un sistema de monitoreo de la disponibilidad y el rendimiento del sitio web. |
+| F44          | Administrar bases de datos de clientes                 | RF126    | Desarrollar un sistema de administración de bases de datos de clientes con seguridad y copias de seguridad. |
+|              |                                                        | RF712    | Implementar un sistema de registro y seguimiento de interacciones con los clientes en la base de datos. |
+| F45          | Evaluar satisfacción de empleados                       | RF128    | Crear una plataforma de encuestas y retroalimentación para medir la satisfacción de los empleados. |
+|              |                                                         | RF129    | Establecer un sistema de seguimiento y análisis de métricas clave de satisfacción de los empleados. |
+
 
