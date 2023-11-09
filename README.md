@@ -21,7 +21,6 @@
 |              |                                                      | RF107    | Implementar una plataforma de formación en línea para facilitar el acceso a cursos y talleres. |
 | F34          | Administrar licencias de software                    | RF108    | Establecer un sistema de seguimiento y gestión de licencias de software en uso. |
 |              |                                                      | RF109    | Implementar una plataforma de solicitud y aprobación de licencias de software. |                            |
-|--------------|----------------------------------------------------|---------|-----------------------------------------------------|
 | F35          | Implementar políticas internas                         | RF110    | Crear una plataforma de políticas internas con acceso y seguimiento de las políticas por parte de los empleados. |
 |              |                                                        | RF111    | Implementar un sistema de notificaciones y recordatorios de políticas internas. |
 | F36          | Planificar y coordinar mantenimientos programados     | RF112    | Establecer un calendario de mantenimientos programados con notificaciones y seguimiento. |
