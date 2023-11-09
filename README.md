@@ -3,12 +3,12 @@
 | ID Capacidad | Nombre de la Capacidad                               | ID R.F. | Descripción del R.F.                                  |
 |--------------|----------------------------------------------------|---------|-----------------------------------------------------|
 | F26          | Gestionar relaciones públicas y comunicaciones    | RF1     | Desarrollar un sistema de gestión de relaciones públicas para seguimiento de contactos y comunicaciones. |
-| F26          |                                                   | RF2     | Implementar un sistema de seguimiento de medios de comunicación para monitorear la cobertura mediática. |
-| F26          |                                                   | RF3     | Crear una plataforma de gestión de contenidos para publicaciones y anuncios de relaciones públicas. |
+|              |                                                   | RF2     | Implementar un sistema de seguimiento de medios de comunicación para monitorear la cobertura mediática. |
+|              |                                                   | RF3     | Crear una plataforma de gestión de contenidos para publicaciones y anuncios de relaciones públicas. |
 | F27          | Administrar redes sociales y canales de comunicación | RF4     | Establecer una estrategia de gestión de redes sociales y canales de comunicación. |
-| F27          | Administrar redes sociales y canales de comunicación | RF5     | Implementar herramientas de programación y automatización de publicaciones en redes sociales. |
+|              |                                                      | RF5     | Implementar herramientas de programación y automatización de publicaciones en redes sociales. |
 | F28          | Gestionar y administrar campañas de publicidad     | RF6     | Desarrollar un sistema de gestión de campañas de publicidad que permita programar y analizar anuncios. |
-| F28          | Gestionar y administrar campañas de publicidad     | RF7     | Establecer métricas clave de rendimiento para evaluar el impacto de las campañas publicitarias. |
+|              |                                                    | RF7     | Establecer métricas clave de rendimiento para evaluar el impacto de las campañas publicitarias. |
 | F29          | Monitorear y mejorar de la experiencia del cliente  | RF8     | Implementar encuestas y sistemas de retroalimentación del cliente para monitorear la experiencia del cliente. |
 | F29          | Monitorear y mejorar de la experiencia del cliente  | RF9     | Desarrollar un sistema de gestión de quejas y resolución de problemas para mejorar la satisfacción del cliente. |
 | F30          | Gestionar relaciones con stakeholders                | RF10    | Establecer una base de datos de stakeholders y un sistema de seguimiento de interacciones. |
