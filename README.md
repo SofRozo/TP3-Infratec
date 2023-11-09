@@ -1,4 +1,4 @@
-Mis disculpas por la omisión. A continuación, te proporciono la tabla con el nombre de la capacidad junto con los R.F. relacionados:
+
 
 | ID Capacidad | Nombre de la Capacidad                               | ID R.F. | Descripción del R.F.                                  |
 |--------------|----------------------------------------------------|---------|-----------------------------------------------------|
@@ -22,4 +22,3 @@ Mis disculpas por la omisión. A continuación, te proporciono la tabla con el n
 | F34          | Administrar licencias de software                    | RF18    | Establecer un sistema de seguimiento y gestión de licencias de software en uso. |
 | F34          | Administrar licencias de software                    | RF19    | Implementar una plataforma de solicitud y aprobación de licencias de software. |
 
-Espero que esta tabla sea más completa y te sea de utilidad. Si necesitas información adicional o más R.F. para otras capacidades, no dudes en preguntar.
